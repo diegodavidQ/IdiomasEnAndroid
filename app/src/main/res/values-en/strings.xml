@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguagesInAndroid</string>
+    <string name="hello">Hello!</string>
+    <string name="welcome">Welcome to Android!!</string>
+    <string name="change_language">Change Language</string>
+</resources>
